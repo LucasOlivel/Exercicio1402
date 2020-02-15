@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Culture</string>
+    <string name="app_name">ländern</string>
     <string name="nameFood">Schwein Knie</string>
     <string name="nameCountry">Deutschland</string>
     <string name="country">ländern</string>
+    <string name="flagLogo">Deutschland</string>
+    <string name="foodContent">Schwein Knie</string>
 </resources>

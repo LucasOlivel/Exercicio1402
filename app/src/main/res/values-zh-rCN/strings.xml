@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Culture</string>
+    <string name="app_name">" 国别"</string>
     <string name="country">" 国别"</string>
     <string name="nameCountry">中国</string>
     <string name="nameFood">拉面</string>
+    <string name="flagLogo">中国</string>
+    <string name="foodContent">拉面</string>
 </resources>

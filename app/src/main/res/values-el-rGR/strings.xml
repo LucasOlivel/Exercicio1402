@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Culture</string>
+    <string name="app_name">χώρες</string>
     <string name="country">χώρες</string>
     <string name="nameCountry">Ελλάδα</string>
     <string name="nameFood">γεμιστό</string>
+    <string name="flagLogo">Ελλάδα</string>
+    <string name="foodContent">γεμιστό</string>
 </resources>
