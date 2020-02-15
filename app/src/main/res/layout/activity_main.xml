@@ -43,12 +43,12 @@
 
     <ImageView
         android:id="@+id/imageFood"
-        android:layout_width="293dp"
-        android:layout_height="486dp"
+        android:layout_width="268dp"
+        android:layout_height="208dp"
         android:gravity="center"
         app:srcCompat="@drawable/foodDefault"
-        tools:layout_editor_absoluteX="60dp"
-        tools:layout_editor_absoluteY="213dp" />
+        tools:layout_editor_absoluteX="71dp"
+        tools:layout_editor_absoluteY="351dp" />
 
     <TextView
         android:id="@+id/nameFood"
