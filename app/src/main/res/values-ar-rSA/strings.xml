@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الدول</string>
+    <string name="country">الدول</string>
+    <string name="flagLogo">المملكة العربية السعودية</string>
+    <string name="nameCountry">المملكة العربية السعودية</string>
+    <string name="foodContent">كباب</string>
+    <string name="nameFood">كباب</string>
+</resources>
